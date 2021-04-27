@@ -1,6 +1,7 @@
-- 👩🏻 Hi, I’m @madison-grace
+- 👩🏻 Hi, I’m @madison-grace you can call me Madison or Madi
 - 🎨 I’m interested in art and music 
 - 🌱 I’m currently learning how to be a product manager
+- 🔥 The Product Team is my favorite
 - 💞 How to reach me madison@fieldpulse.com 
 
 <!---
